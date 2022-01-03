@@ -49,10 +49,12 @@ section {
 body {
   background-color: hsl(0, 0%, 95%);
 }
+h1,
 h2 {
   color: hsl(0, 0%, 95%);
 }
 
+h1,
 h2 {
   font-family: "Big Shoulders Display";
   font-size: 40px;
@@ -105,7 +107,7 @@ section a {
   section {
     flex-direction: column;
     max-width: 310px;
-    margin-top: ;
+    margin-top: 20px;
   }
 
   .box p {
